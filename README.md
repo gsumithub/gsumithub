@@ -32,6 +32,18 @@
 
 ### 📊 GitHub Stats
 
+### 🚀 Featured Web Development Projects
+
+<p align="center">
+  <a href="https://github.com/gsumithub/Myntra-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra-Clone&theme=github_dark" />
+  </a>
+  <a href="https://github.com/gsumithub/IIP-Website-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP-Website-Clone&theme=github_dark" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=github_dark&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=compact&theme=github_dark&hide_border=true" height="165">
