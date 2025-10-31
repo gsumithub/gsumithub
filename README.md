@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Featured Web Development Projects
-Here are some of my latest front-end builds and web clones (auto-updating with my pinned repositories 👇):
+Here are some of my latest builds and web clones (auto-updating with my pinned repositories 👇):
 
 <p align="center">
   <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-">
