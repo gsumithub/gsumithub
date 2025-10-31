@@ -38,10 +38,8 @@
 Here are some of my latest front-end builds and web clones (auto-updating with my pinned repositories 👇):
 
 <p align="center">
-  <a href="https://github.com/gsumithub
-/
-Figma_to_HTML-project-WS-Cube-Tech-web-page-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/gsumithub/Packshifts_clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=github_dark&hide_border=true" />
