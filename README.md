@@ -35,10 +35,10 @@
 ### 🚀 Featured Web Development Projects
 
 <p align="center">
-  <a href="https://github.com/gsumithub/Myntra-Clone">
+  <a href="https://github.com/gsumithub/ Myntra_clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra-Clone&theme=github_dark" />
   </a>
-  <a href="https://github.com/gsumithub/IIP-Website-Clone">
+  <a href="https://github.com/gsumithub/IIP-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP-Website-Clone&theme=github_dark" />
   </a>
 </p>
