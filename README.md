@@ -36,6 +36,11 @@
 
 ### 🚀 Featured Web Development Projects
 Here are some of my latest builds and web clones (auto-updating with my pinned repositories 👇):
+<p align="center">
+  <a href="https://github.com/gsumithub/Solachey_clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=github_dark&hide_border=true" />
+  </a>
+</p>  
 
 <p align="center">
   <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-">
