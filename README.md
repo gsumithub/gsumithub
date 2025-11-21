@@ -40,6 +40,9 @@ Here are some of my latest builds and web clones (auto-updating with my pinned r
   <a href="https://github.com/gsumithub/Solachey_clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=github_dark&hide_border=true" />
   </a>
+  <a href="https://github.com/gsumithub/Spotify_Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Spotify_Clone&theme=github_dark&hide_border=true" />
+  </a>
 </p>  
 
 <p align="center">
