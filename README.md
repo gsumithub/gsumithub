@@ -27,7 +27,6 @@
 ---
 
 ## 📦 Web Development Projects  
-> All projects are displayed in a **grid layout**, so you can add unlimited projects easily.
 
 ### 🌟 Major Clones & Builds  
 <div align="center">
