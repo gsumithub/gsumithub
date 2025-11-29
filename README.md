@@ -26,18 +26,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-### 🔥 Latest Project  
-> Your latest projects will always be displayed here manually — no GitHub pin limit required.
-
-### 📝 To-Do List App  
-A simple yet powerful To-Do List app to practice JavaScript fundamentals deeply.
-
-🔗 **Repo:** https://github.com/gsumithub/ToDoList  
-📌 **Tech:** HTML, CSS, JavaScript  
-
----
-
 ## 📦 Web Development Projects  
 > All projects are displayed in a **grid layout**, so you can add unlimited projects easily.
 
