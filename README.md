@@ -8,81 +8,75 @@
 
 ---
 
-### 💻 About Me
-- 🚀 Full Stack Developer (Learning and Building Projects)
-- 🎯 Focused on **MERN Stack, REST APIs, and Clean UI/UX**
-- 🌱 Currently working on responsive websites and full-stack web apps
-- 🧩 Transitioned from AI/ML projects to modern web development
-- 📫 Reach me: **krsumit2203@gmail.com**
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sumit-kumar-2a5873222/)
+## 💻 About Me
+- 🚀 Full Stack Developer (MERN)
+- 🎯 Passionate about creating **clean, responsive, and scalable** web applications  
+- 🌱 Currently learning advanced React patterns & full-stack project architecture  
+- 🧩 Previously worked on AI/ML projects → shifting focus to modern web dev  
+- 📫 Reach me anytime: **krsumit2203@gmail.com**
+- 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Web Development Projects
-Here are some of my latest builds and web clones (auto-updating with my pinned repositories 👇):
-<p align = "center">
-  <a href="https://github.com/gsumithub/ToDoList">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=ToDoList&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+## 🚀 Featured Projects  
+### 🔥 Latest Project  
+> Your latest projects will always be displayed here manually — no GitHub pin limit required.
 
-<p align="center">
-  <a href="https://github.com/gsumithub/Spotify_Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Spotify_Clone&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/gsumithub/Solachey_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=github_dark&hide_border=true" />
-  </a>
-</p>  
+### 📝 To-Do List App  
+A simple yet powerful To-Do List app to practice JavaScript fundamentals deeply.
 
-<p align="center">
-  <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/gsumithub/Packshifts_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gsumithub/Myntra_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra_clone&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/gsumithub/IIP_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+🔗 **Repo:** https://github.com/gsumithub/ToDoList  
+📌 **Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 🌐 Let's Connect
+## 📦 Web Development Projects  
+> All projects are displayed in a **grid layout**, so you can add unlimited projects easily.
+
+### 🌟 Major Clones & Builds  
+<div align="center">
+
+| Project | Preview |
+|--------|---------|
+| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Spotify_Clone&theme=github_dark&hide_border=true" /></a> |
+| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=github_dark&hide_border=true" /></a> |
+| **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=github_dark&hide_border=true" /></a> |
+| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra_clone&theme=github_dark&hide_border=true" /></a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=github_dark&hide_border=true" /></a> |
+| **Figma to HTML Conversion** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=github_dark&hide_border=true" /></a> |
+
+</div>
+
+
+
+---
+
+## 📚 More Projects Coming Soon  
+I actively build new projects every week — this section will grow with:
+
+- Full-stack MERN apps  
+- Mini JavaScript utilities  
+- UI/UX clones  
+- Backend API projects  
+
+---
+
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:krsumit2203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumit-kumar-2a5873222/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="mailto:krsumit2203@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-2a5873222/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>✨ Always learning, always building. Focused on creating meaningful digital experiences. ✨</sub>
+  <sub>✨ Always learning, always building — focused on real-world impact through clean, functional web apps. ✨</sub>
 </p>
