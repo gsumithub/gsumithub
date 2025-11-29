@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Featured Web Development Projects
-Here are some of my latest builds and web clones (auto-updating with my pinned repositories 👇):<p align="center">
+Here are some of my latest builds and web clones (auto-updating with my pinned repositories 👇):
 <p align = "center">
   <a href="https://github.com/gsumithub/ToDoList">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=ToDoList&theme=github_dark&hide_border=true" />
