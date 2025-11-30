@@ -39,7 +39,7 @@
 | **Figma to HTML Conversion** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=github_dark&hide_border=true" /></a> |
 | **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=github_dark&hide_border=true" /></a> |
 | **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra_clone&theme=github_dark&hide_border=true" /></a> |
-| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=github_dark&hide_border=true" /></a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?</a> |
 
 
 </div>
