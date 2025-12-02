@@ -33,13 +33,13 @@
 
 | Project | Preview |
 |--------|---------|
-| **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=To%20Do%20List&icon=checklist&bg=111111&titleColor=ffffff&iconColor=ffffff" /></a> |
-| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Spotify%20Clone&icon=music&bg=111111&titleColor=ffffff&iconColor=1DB954" /></a> |
-| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Solachey%20Clone&icon=web&bg=111111&titleColor=ffffff&iconColor=00b0ff" /></a> |
-| **Figma to HTML Conversion** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Figma%20to%20HTML&icon=figma&bg=111111&titleColor=ffffff&iconColor=F24E1E" /></a> |
-| **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Packshifts%20Clone&icon=package&bg=111111&titleColor=ffffff&iconColor=ffbb00" /></a> |
-| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Myntra%20Clone&icon=shopping&bg=111111&titleColor=ffffff&iconColor=ff0055" /></a> |
-| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="460" src="https://github-readme-tech-stack.vercel.app/api/cards?title=IIP%20Website%20Clone&icon=browser&bg=111111&titleColor=ffffff&iconColor=00eaff" /></a> |
+| **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=ToDoList&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&hide_border=true" /></a> |
+| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Spotify_Clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=1DB954&hide_border=true" /></a> |
+| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=00b0ff&hide_border=true" /></a> |
+| **Figma to HTML Conversion** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=F24E1E&hide_border=true" /></a> |
+| **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=FFBB00&hide_border=true" /></a> |
+| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=FF0055&hide_border=true" /></a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=00Eaff&hide_border=true" /></a> |
 
 </div>
 
