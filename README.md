@@ -13,10 +13,10 @@
 
 ## 💫 About Me  
 - 🚀 MERN Stack Developer  
-- 🌱 Currently diving deep into advanced React patterns & full-stack architecture  
-- 🎯 Focused on creating **clean, scalable, and high-performance** web applications  
-- 🧠 Transitioning from AI/ML → Fully committed to Web Development  
-- 📧 Reach me: **krsumit2203@gmail.com**  
+- 🌱 Improving in advanced React patterns & backend architecture  
+- 🎯 Building clean, scalable, and high-performance web applications  
+- 🧠 Previously AI/ML — now fully dedicated to Web Development  
+- 📧 Email: **krsumit2203@gmail.com**  
 - 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)  
 
 ---
