@@ -32,8 +32,8 @@
 
 ### 📊 Stats & Contribution Overview  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/gsumithub/gsumithub/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/snake-dark.svg" />
 </p>
 
 ---
