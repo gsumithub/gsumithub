@@ -45,10 +45,10 @@
 
 ---
 
-## 🍩 Top Languages (Real GitHub Donut – FIXED)
+## 🍩 Top Languages (Guaranteed Real Donut)
 <p align="center">
   <img height="260"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&v=2&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
@@ -88,3 +88,4 @@
 <p align="center">
   <sub>✨ Always learning, always building — focused on real-world impact through clean, functional web apps. ✨</sub>
 </p>
+
