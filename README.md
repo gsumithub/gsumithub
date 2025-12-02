@@ -45,10 +45,10 @@
 
 ---
 
-## 🍩 Top Languages (Guaranteed Real Donut)
+## 🍩 Top Languages (Donut View — Working Version)
 <p align="center">
   <img height="260"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 | **Figma to HTML Conversion** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=F24E1E&hide_border=true" /></a> |
 | **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=FFBB00&hide_border=true" /></a> |
 | **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=FF0055&hide_border=true" /></a> |
-| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=00Eaff&hide_border=true" /></a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=00eaff&hide_border=true" /></a> |
 
 </div>
 
@@ -88,4 +88,3 @@
 <p align="center">
   <sub>✨ Always learning, always building — focused on real-world impact through clean, functional web apps. ✨</sub>
 </p>
-
