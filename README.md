@@ -13,10 +13,10 @@
 
 ## 💫 About Me  
 - 🚀 MERN Stack Developer  
-- 🌱 Improving in advanced React patterns & backend architecture  
-- 🎯 Building clean, scalable, and high-performance web applications  
-- 🧠 Previously AI/ML — now fully dedicated to Web Development  
-- 📧 Email: **krsumit2203@gmail.com**  
+- 🌱 Currently diving deep into advanced React patterns & full-stack architecture  
+- 🎯 Focused on creating **clean, scalable, and high-performance** web applications  
+- 🧠 Transitioning from AI/ML → Fully committed to Web Development  
+- 📧 Reach me: **krsumit2203@gmail.com**  
 - 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)  
 
 ---
@@ -45,10 +45,10 @@
 
 ---
 
-## 🍩 Top Languages (Real GitHub Donut)
+## 🍩 Top Languages (Real GitHub Donut – FIXED)
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1800" />
+  <img height="260"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&v=2&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
