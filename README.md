@@ -1,34 +1,69 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Sumit Kumar | Full Stack Developer" width="100%">
+  <img src="banner.png" alt="Sumit Kumar | MERN Stack Developer" width="100%">
 </p>
 
-<h1 align="center">👋 Hey, I'm Sumit Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building real-world web experiences</h3>
-
----
-
-## 💻 About Me
-- 🚀 Full Stack Developer (MERN)
-- 🎯 Passionate about creating **clean, responsive, and scalable** web applications  
-- 🌱 Currently learning advanced React patterns & full-stack project architecture  
-- 🧩 Previously worked on AI/ML projects → shifting focus to modern web dev  
-- 📫 Reach me anytime: **krsumit2203@gmail.com**
-- 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)
-
----
-
-## 🛠 Tech Stack & Tools
+<h1 align="center">👋 Hey, I'm <span style="color:#00A3FF">Sumit Kumar</span></h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=00A3FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+%26+Backend+Builder;Clean+Code+Advocate;Always+Learning+Always+Building" />
 </p>
 
 ---
 
-## 📦 Web Development Projects  
+## 💫 About Me  
+- 🚀 MERN Stack Developer  
+- 🌱 Currently diving deep into advanced React patterns & full-stack architecture  
+- 🎯 Focused on creating **clean, scalable, and high-performance** web applications  
+- 🧠 Shifting from AI/ML background → Now fully committed to Web Development  
+- 📧 Reach me: **krsumit2203@gmail.com**  
+- 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)  
 
-### 🌟 Major Clones & Builds  
+---
+
+## 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,linux&perline=6" />
+</p>
+
+---
+
+## 🏆 GitHub Highlights  
+
+### 📊 Stats & Contribution Overview  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
+</p>
+
+---
+
+## 📈 Coding Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsumithub&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🍩 Top Languages (Donut Chart)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=donut&theme=react&bg_color=0D1117&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Featured Projects  
+<p align="center">
+
+<img width="600" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Spotify%20Clone&icon=music&bg=0D1117&titleColor=ffffff&iconColor=1DB954" />
+
+<img width="600" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Myntra%20Clone&icon=shopping&bg=0D1117&titleColor=ffffff&iconColor=FF0055" />
+
+</p>
+
+---
+
+## 📦 Major Web Development Projects  
 <div align="center">
 
 | Project | Preview |
@@ -43,22 +78,18 @@
 
 </div>
 
-
 ---
 
-## 📚 More Projects Coming Soon  
-I actively build new projects every week — this section will grow with:
-
-- Full-stack MERN apps  
-- Mini JavaScript utilities  
-- UI/UX clones  
-- Backend API projects  
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/gsumithub/gsumithub/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:krsumit2203@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" /></a>
+  <a href="mailto:krsumit2203@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/sumit-kumar-2a5873222/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
