@@ -45,13 +45,12 @@
 
 ---
 
-## 🍩 Top Languages (Compact Chart)
+## 🍩 Top Languages (MERN-focused)
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=compact&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=compact&theme=react&bg_color=0D1117&hide_border=true&hide=python,jupyter%20notebook,tex,scss,matlab,r&cache_seconds=1" />
 </p>
 
 ---
-
 
 ## 📦 Major Web Development Projects  
 <div align="center">
