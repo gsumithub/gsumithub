@@ -45,9 +45,10 @@
 
 ---
 
-## 🍩 Top Languages (Default Donut)
+## 🍩 Top Languages (Real GitHub Donut)
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1" />
+  <img height="180"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&theme=react&bg_color=0D1117&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
