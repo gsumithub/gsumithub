@@ -52,16 +52,6 @@
 
 ---
 
-## 🌟 Featured Projects  
-<p align="center">
-
-<img width="600" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Spotify%20Clone&icon=music&bg=0D1117&titleColor=ffffff&iconColor=1DB954" />
-
-<img width="600" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Myntra%20Clone&icon=shopping&bg=0D1117&titleColor=ffffff&iconColor=FF0055" />
-
-</p>
-
----
 
 ## 📦 Major Web Development Projects  
 <div align="center">
