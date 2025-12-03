@@ -11,44 +11,36 @@
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,linux&perline=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Highlights  
-
-### 📊 Stats (Official GitHub Cards — Never Break)
+## 🏆 GitHub Stats (Self-Hosted — Never Breaks)
 <p align="center">
-  <img width="400" src="https://raw.githubusercontent.com/gsumithub/github-stats/master/generated/overview.svg" />
-  <img width="400" src="https://raw.githubusercontent.com/gsumithub/github-stats/master/generated/languages.svg" />
-</p>
-
-> These SVGs come from a GitHub Action that generates them **inside your repository** →  
-> ✔ no rate-limit  
-> ✔ no external API  
-> ✔ always loads in every browser
-
----
-
-## 📈 Contribution Graph (Official & Stable)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/profile-south-season-animate.svg" />
+  <img width="420" src="./stats/overview.svg" />
+  <img width="420" src="./stats/languages.svg" />
 </p>
 
 ---
 
-## 🍩 Top Languages (Static, Always Works)
+## 📈 Contribution Activity Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/github-stats/master/generated/languages.svg" width="450" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/main/stats/stargazers.svg" width="800">
 </p>
 
 ---
 
-## 📦 Web Development Projects  
+## 🐍 Contribution Snake (Self-Hosted)
+<p align="center">
+  <img src="./assets/snake.svg" width="800" />
+</p>
+
+---
+
+## 📦 Featured Projects  
 <div align="center">
 
 | Project | Preview |
@@ -56,20 +48,10 @@
 | **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" /></a> |
 | **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> |
 | **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" /></a> |
-| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Solachey_clone" /></a> |
-| **Figma to HTML** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-" /></a> |
-| **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Packshifts_clone" /></a> |
 | **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Myntra_clone" /></a> |
 | **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/IIP_clone" /></a> |
 
 </div>
-
----
-
-## 🐍 Contribution Snake (Self-Hosted = Will Always Load)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-snake.svg" />
-</p>
 
 ---
 
