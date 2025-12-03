@@ -58,7 +58,7 @@
 
 | Project | Preview |
 |--------|---------|
-| **To Do List** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Digital-Clock&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&hide_border=true" /></a> |
+| **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Digital-Clock&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&hide_border=true" /></a> |
 | **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=ToDoList&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&hide_border=true" /></a> |
 | **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Spotify_Clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=1DB954&hide_border=true" /></a> |
 | **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=react&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=00b0ff&hide_border=true" /></a> |
