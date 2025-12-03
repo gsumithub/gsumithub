@@ -26,14 +26,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,linux&perline=6" />
 </p>
 
----
+--- 
 
 ## 🏆 GitHub Highlights  
 
 ### 📊 Stats & Contribution Overview  
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true&cache_seconds=7200" />
 </p>
 
 ---
@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsumithub&theme=react-dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🍩 Top Languages (Donut View — Working Version)
