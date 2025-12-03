@@ -62,7 +62,6 @@ I focus on:
 
 </div>
 
-
 ---
 
 ## 🌐 Socials & Badges  
