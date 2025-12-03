@@ -26,28 +26,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,linux&perline=6" />
 </p>
 
---- 
+---
 
 ## 🏆 GitHub Highlights  
 
 ### 📊 Stats & Contribution Overview  
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true&cache_seconds=7200" />
+  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📈 Coding Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsumithub&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsumithub&theme=react-dark&hide_border=true&area=true&hide_title=true&t=1" />
 </p>
+
 ---
 
-## 🍩 Top Languages (Donut View — Working Version)
+## 🍩 Top Languages (Donut View)
 <p align="center">
-  <img height="260"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true" />
+  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/snake-dark.svg?t=2" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-contribution-grid-snake.svg?t=2" />
 </p>
 
 ---
