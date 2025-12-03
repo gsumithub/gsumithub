@@ -1,14 +1,19 @@
-name: GitHub Stats
+name: Generate GitHub Stats
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *" # auto-update every hour
   workflow_dispatch:
 
 jobs:
-  build:
+  stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: jasonlong/github-stats@v1
+
+      - name: Generate Stats
+        uses: jaywcjlove/github-action-generate-svg@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          output: ./stats/
+          committer_email: "github-actions[bot]@users.noreply.github.com"
+          committer_name: "github-actions[bot]"
