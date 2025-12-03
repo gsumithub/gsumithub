@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00A3FF">Sumit Kumar</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=00A3FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+%26+Backend+Builder;Clean+Code+Advocate;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=00A3FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+%26+Backend+Builder;Clean+Code+Advocate;Always+Learning+Always+Building" />
 </p>
 
 ---
@@ -20,24 +20,30 @@
 
 ## 🏆 GitHub Highlights  
 
-### 📊 Stats & Contribution Overview  
+### 📊 Stats (Official GitHub Cards — Never Break)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&theme=react&bg_color=0D1117&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
+  <img width="400" src="https://raw.githubusercontent.com/gsumithub/github-stats/master/generated/overview.svg" />
+  <img width="400" src="https://raw.githubusercontent.com/gsumithub/github-stats/master/generated/languages.svg" />
+</p>
+
+> These SVGs come from a GitHub Action that generates them **inside your repository** →  
+> ✔ no rate-limit  
+> ✔ no external API  
+> ✔ always loads in every browser
+
+---
+
+## 📈 Contribution Graph (Official & Stable)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/profile-south-season-animate.svg" />
 </p>
 
 ---
 
-## 📈 Coding Activity Graph  
+## 🍩 Top Languages (Static, Always Works)
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsumithub&theme=react" />
-</p>
-
----
-
-## 🍩 Top Languages (Working Donut Chart)
-<p align="center">
-  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=pie&langs_count=10&theme=react&bg_color=0D1117&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/gsumithub/github-stats/master/generated/languages.svg" width="450" />
 </p>
 
 ---
@@ -47,22 +53,22 @@
 
 | Project | Preview |
 |--------|---------|
-| **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Digital-Clock&theme=react&bg_color=0D1117&hide_border=true" /></a> |
-| **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=ToDoList&theme=react&bg_color=0D1117&hide_border=true" /></a> |
-| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Spotify_Clone&theme=react&bg_color=0D1117&icon_color=1DB954&hide_border=true" /></a> |
-| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Solachey_clone&theme=react&bg_color=0D1117&hide_border=true" /></a> |
-| **Figma to HTML** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Figma_to_HTML-project-WS-Cube-Tech-web-page-&theme=react&bg_color=0D1117&hide_border=true" /></a> |
-| **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Packshifts_clone&theme=react&bg_color=0D1117&hide_border=true" /></a> |
-| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=Myntra_clone&theme=react&bg_color=0D1117&hide_border=true" /></a> |
-| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="460" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsumithub&repo=IIP_clone&theme=react&bg_color=0D1117&hide_border=true" /></a> |
+| **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" /></a> |
+| **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> |
+| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" /></a> |
+| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Solachey_clone" /></a> |
+| **Figma to HTML** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-" /></a> |
+| **PackageShifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Packshifts_clone" /></a> |
+| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Myntra_clone" /></a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/IIP_clone" /></a> |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake (Stable Version)
+## 🐍 Contribution Snake (Self-Hosted = Will Always Load)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-snake.svg" />
 </p>
 
 ---
