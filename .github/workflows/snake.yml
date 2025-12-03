@@ -2,15 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # update daily
+    - cron: "0 0 * * *" # Runs daily
   workflow_dispatch:
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake SVG
@@ -20,8 +20,8 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Commit Snake File
+      - name: Push Snake to Repo
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update Snake Animation"
-          file_pattern: output/*.svg
+          commit_message: "🐍 Update Snake Animation"
+          file_pattern: output/github-contribution-grid-snake.svg
