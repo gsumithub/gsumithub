@@ -73,7 +73,7 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/snake-dark.svg?t=1" />
 </p>
 
 ---
