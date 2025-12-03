@@ -45,8 +45,7 @@ I focus on:
 
 ---
 
-## 🚀 Featured Projects  
-<p align="center">🔥 Click to view the repo</p>
+## 🧩 My Web Dev Projects  
 
 <div align="center">
 
@@ -56,8 +55,13 @@ I focus on:
 | **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> |
 | **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" /></a> |
 | **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Myntra_clone" /></a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/IIP_clone" /></a> |
+| **Figma to HTML** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-" /></a> |
+| **Packshifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Packshifts_clone" /></a> |
+| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Solachey_clone" /></a> |
 
 </div>
+
 
 ---
 
