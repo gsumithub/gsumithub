@@ -11,15 +11,6 @@
 
 ---
 
-## 💫 About Me  
-- 🚀 MERN Stack Developer  
-- 🌱 Exploring advanced React patterns & full-stack architecture  
-- 🎯 Passionate about **clean, scalable, and high-performance** web apps  
-- 📧 Email: **krsumit2203@gmail.com**  
-- 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)  
-
----
-
 ## 🧰 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,linux&perline=6" />
@@ -31,8 +22,8 @@
 
 ### 📊 Stats & Contribution Overview  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
+  <img height="180" src="https://img.shields.io/endpoint?url=https://github-readme-stats.vercel.app/api?username=gsumithub&theme=react&bg_color=0D1117&hide_border=true" />
+  <img height="180" src="https://img.shields.io/endpoint?url=https://streak-stats.demolab.com/?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -46,7 +37,7 @@
 
 ## 🍩 Top Languages (Donut View)
 <p align="center">
-  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true" />
+  <img height="260" src="https://img.shields.io/endpoint?url=https://github-readme-stats.vercel.app/api/top-langs/?username=gsumithub&layout=donut&langs_count=10&theme=react&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +62,7 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-contribution-grid-snake.svg?t=3" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-contribution-grid-snake.svg?t=4" />
 </p>
 
 ---
