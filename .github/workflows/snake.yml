@@ -1,28 +1,27 @@
 name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # update daily
   workflow_dispatch:
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: gsumithub
-          outputs: dist/snake.svg?raw=true
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
 
-      - name: Upload Snake
-        uses: actions/upload-artifact@v3
+      - name: Commit Snake File
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: snake
-          path: dist/snake.svg
-
-      - name: Commit Snake
-        run: |
-          mkdir -p assets
-          cp dist/snake.svg assets/snake.svg
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "update snake"
+          commit_message: "Update Snake Animation"
+          file_pattern: output/*.svg
