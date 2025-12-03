@@ -13,10 +13,9 @@
 
 ## 💫 About Me  
 - 🚀 MERN Stack Developer  
-- 🌱 Currently diving deep into advanced React patterns & full-stack architecture  
-- 🎯 Focused on creating **clean, scalable, and high-performance** web applications  
-- 🧠 Transitioning from AI/ML → Fully committed to Web Development  
-- 📧 Reach me: **krsumit2203@gmail.com**  
+- 🌱 Exploring advanced React patterns & full-stack architecture  
+- 🎯 Passionate about **clean, scalable, and high-performance** web apps  
+- 📧 Email: **krsumit2203@gmail.com**  
 - 🔗 LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-2a5873222/)  
 
 ---
@@ -33,14 +32,14 @@
 ### 📊 Stats & Contribution Overview  
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=gsumithub&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true&cache_seconds=86400" />
+  <img height="180" src="https://streak-stats.demolab.com?user=gsumithub&theme=react&background=0D1117&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Coding Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsumithub&theme=react-dark&hide_border=true&area=true&hide_title=true&t=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsumithub&theme=react" />
 </p>
 
 ---
@@ -72,7 +71,7 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-contribution-grid-snake.svg?t=2" />
+  <img src="https://raw.githubusercontent.com/gsumithub/gsumithub/output/github-contribution-grid-snake.svg?t=3" />
 </p>
 
 ---
