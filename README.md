@@ -51,6 +51,7 @@ I focus on:
 
 | Project | Preview |
 |--------|---------|
+| **Count Down** | <a href="https://github.com/gsumithub/Count-Down"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Count-Down" /></a> |
 | **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" /></a> |
 | **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> |
 | **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" /></a> |
