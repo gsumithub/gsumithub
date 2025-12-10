@@ -13,10 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: gsumithub
+          theme: github-dark        # <<< 🌙 DARK GRID THEME
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
