@@ -39,9 +39,8 @@ I focus on:
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center">
-  <img src="./output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
-</p>
+![Snake animation](./output/github-contribution-grid-snake.svg?cache=1)
+
 
 ---
 
