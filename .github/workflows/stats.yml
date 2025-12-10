@@ -2,7 +2,7 @@ name: GitHub Stats Generator
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight IST
+    - cron: "0 0 * * *"    # Daily at midnight IST
   workflow_dispatch:
 
 jobs:
@@ -10,44 +10,51 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📊 Generate metrics.svg
+      - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # -------------------------
-          # BASIC CONFIG
-          # -------------------------
+          # ---------------------------------
+          # CORE SETTINGS
+          # ---------------------------------
           user: gsumithub
           template: classic
-          base: header, activity, community, repositories
-          config_timezone: Asia/Kolkata
+          filename: stats/metrics.svg
+          output_action: commit
+          clean: true
           optimize: yes
+          config_timezone: Asia/Kolkata
 
-          # -------------------------
-          # STABLE + AESTHETIC PLUGINS
-          # -------------------------
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full
+          # ---------------------------------
+          # AESTHETIC + STABLE PLUGINS
+          # ---------------------------------
 
+          # Languages overview
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
+          plugin_languages_limit: 10
 
+          # 3D contributions graph
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full
+
+          # Lines of code
           plugin_lines: yes
-          
+
+          # Follow-up activity (clean + readable)
           plugin_followup: yes
           plugin_followup_sections: repositories, users
 
+          # Topics section (looks aesthetic)
           plugin_topics: yes
           plugin_topics_mode: starred
-          plugin_topics_limit: 12
+          plugin_topics_limit: 15
           plugin_topics_sort: starred
 
-          # -------------------------
-          # ANTI-ERROR SETTINGS
-          # -------------------------
+          # ---------------------------------
+          # SAFETY / RELIABILITY
+          # ---------------------------------
           retries: 3
-          retries_delay: 180
-          clean: yes
-          output_action: commit
+          retries_delay: 200
