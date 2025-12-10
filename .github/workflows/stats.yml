@@ -2,7 +2,7 @@ name: GitHub Stats Generator
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # Daily at midnight IST
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,45 +16,35 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # ---------------------------------
-          # CORE SETTINGS
+          # REQUIRED OR PLUGINS WILL NOT SHOW
           # ---------------------------------
           user: gsumithub
           template: classic
+          base: header, activity, community, repositories
           filename: stats/metrics.svg
           output_action: commit
           clean: true
-          optimize: yes
+          optimize: true
           config_timezone: Asia/Kolkata
 
-          # ---------------------------------
-          # AESTHETIC + STABLE PLUGINS
-          # ---------------------------------
-
-          # Languages overview
+          # Aesthetic + visible plugins
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_details: percentage
           plugin_languages_limit: 10
+          plugin_languages_ignored: html, css
 
-          # 3D contributions graph
+          plugin_lines: yes
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full
 
-          # Lines of code
-          plugin_lines: yes
-
-          # Follow-up activity (clean + readable)
-          plugin_followup: yes
-          plugin_followup_sections: repositories, users
-
-          # Topics section (looks aesthetic)
           plugin_topics: yes
           plugin_topics_mode: starred
           plugin_topics_limit: 15
-          plugin_topics_sort: starred
 
-          # ---------------------------------
-          # SAFETY / RELIABILITY
-          # ---------------------------------
+          plugin_followup: yes
+          plugin_followup_sections: repositories, users
+
+          # Reliability
           retries: 3
-          retries_delay: 200
+          retries_delay: 180
