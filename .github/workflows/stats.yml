@@ -15,12 +15,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-
           # Core
           user: gsumithub
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          commits_authoring: gsumithub
 
           # Output
           filename: stats/metrics.svg
@@ -29,7 +29,7 @@ jobs:
           optimize: true
 
           # -----------------------------
-          # LANGUAGES (FIXED)
+          # LANGUAGES 
           # -----------------------------
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -39,18 +39,16 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 60
 
-          # Force Linguist to detect frontend files properly
           plugin_languages_aliases: |
             **/*.html: HTML
             **/*.css: CSS
             **/*.js: JavaScript
             **/*.jsx: JavaScript
 
-          # (IMPORTANT) Do NOT ignore HTML/CSS
           plugin_languages_ignored: ""
 
           # -----------------------------
-          # Aesthetic Plugins
+          # Aesthetic Plugins (Kept)
           # -----------------------------
           plugin_lines: yes
 
@@ -63,6 +61,12 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: repositories, users
+
+          # -----------------------------
+          # FIX: Contributions 3D Calendar
+          # -----------------------------
+          plugin_calendar: yes
+          plugin_calendar_limit: 365
 
           # Reliability
           retries: 3
