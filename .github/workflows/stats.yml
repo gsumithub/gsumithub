@@ -2,78 +2,68 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily refresh at midnight
+    - cron: "0 0 * * *"         # Refresh daily
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v4
 
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # -----------------------------
-          # CORE
-          # -----------------------------
           user: gsumithub
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          optimize: true
-          retries: 3
-          retries_delay: 120
-
-          # Output file
           filename: stats/metrics.svg
           output_action: commit
-          clean: true
 
-          # -----------------------------
-          # LANGUAGES — STABLE CONFIG
-          # -----------------------------
+          # PREMIUM WHITE CARD THEME
+          config_color: |
+            background: "#FFFFFFF0"
+            border: "#DDDDDD"
+            header: "#0084FF"
+            text: "#222222"
+            stats: "#0084FF"
+
+          config_display: large
+          config_padding: 12
+          config_animations: yes
+
+          # LANGUAGES
           plugin_languages: yes
-          plugin_languages_indepth: yes      # Deep analysis, stable mode
+          plugin_languages_indepth: yes
           plugin_languages_limit: 10
+          plugin_languages_details: percentage, bytes
           plugin_languages_analysis_timeout: 30
-          plugin_languages_details: percentage
-          plugin_languages_categories: markup, programming
-          plugin_languages_other: false
 
-          # Proper frontend language detection  
           plugin_languages_aliases: |
             **/*.html: HTML
             **/*.css: CSS
             **/*.js: JavaScript
             **/*.jsx: JavaScript
 
-          plugin_languages_ignored: ""
-
-          # -----------------------------
           # 3D CONTRIBUTION CALENDAR
-          # -----------------------------
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full  # full-year calendar (safe)
+          plugin_isocalendar_duration: full
 
-          # -----------------------------
-          # CONTRIBUTION FOLLOW-UP
-          # -----------------------------
+          # FOLLOWUP STATS
           plugin_followup: yes
           plugin_followup_sections: repositories, users
 
-          # -----------------------------
-          # STARRED TOPICS CLOUD
-          # -----------------------------
+          # STARRED TOPICS
           plugin_topics: yes
           plugin_topics_mode: starred
           plugin_topics_limit: 15
 
-          # -----------------------------
-          # LINE COUNT (SAFE MODE)
-          # -----------------------------
-          plugin_lines: yes
+          # RELIABILITY SETTINGS
+          retries: 3
+          retries_delay: 120
+          optimize: yes
+          clean: yes
