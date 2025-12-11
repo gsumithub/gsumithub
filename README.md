@@ -13,13 +13,13 @@
 
 ## 🧑‍💻 About Me  
 
-I'm a passionate **MERN Stack Developer** who loves building modern UI, clean backend systems, and polished real-world web apps.  
-I focus on:  
+I'm a passionate **MERN Stack Developer** who loves building clean UI, optimized backend logic, and polished real-world web applications.  
+I focus on:
 
 - 🎨 Smooth, responsive UI  
-- ⚡ Fast backend logic (Node/Express)  
-- 🗃 Databases with MongoDB  
-- 🚀 Full-stack projects that solve real problems  
+- ⚡ Fast and efficient backend logic (Node.js / Express)  
+- 🗃 Scalable MongoDB database models  
+- 🚀 Production-ready full-stack applications  
 - 🧼 Clean code, readable architecture  
 
 ---
@@ -31,16 +31,17 @@ I focus on:
 
 ---
 
-## 📊 GitHub Stats (Self-Hosted — Never Breaks)
+## 📊 GitHub Analytics — Minimal Premium Stats  
 <p align="center">
-  <img src="./stats/metrics.svg" width="90%" alt="GitHub Metrics"/>
+  <img src="./stats/metrics.svg" width="88%" alt="GitHub Metrics"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](./output/github-contribution-grid-snake.svg?cache=1)
-
+<p align="center">
+  <img src="./output/github-contribution-grid-snake.svg?cache=1" width="100%" alt="Snake animation"/>
+</p>
 
 ---
 
