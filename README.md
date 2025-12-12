@@ -1,8 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" width="100%" alt="Sumit Kumar Banner"/>
-</p>
-
+</p> -->
 <h1 align="center">✨ Sumit Kumar — MERN Stack Developer ✨</h1>
 
 <p align="center">
