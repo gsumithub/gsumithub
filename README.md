@@ -51,6 +51,7 @@ I focus on:
 
 | Project | Preview |
 |--------|---------|
+| **Smart City Mohali Clone** | <a href="https://github.com/gsumithub/Smart-City_mohali_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Smart-City_mohali_Clone" /></a> |
 | **Count Down** | <a href="https://github.com/gsumithub/Count-Down"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Count-Down" /></a> |
 | **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" /></a> |
 | **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> |
