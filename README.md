@@ -25,16 +25,9 @@ I focus on:
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=
-  html,css,js,ts,
-  react,angular,
-  nodejs,express,
-  mongodb,
-  jquery,bootstrap,
-  git,github,linux,
-  tailwind,vscode,figma
-  &perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,jquery,bootstrap,git,github,linux,tailwind,vscode,figma&perline=7" />
 </p>
+
 
 
 ---
