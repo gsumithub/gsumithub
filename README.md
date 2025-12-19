@@ -30,14 +30,14 @@ I focus on:
 
 ---
 
-## 📊 GitHub Analytics — Minimal Premium Stats  
+## 📊 GitHub Analytics (Self-Hosted)
 <p align="center">
   <img src="./stats/metrics.svg" width="88%" alt="GitHub Metrics"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake  (Self-Hosted)
 <p align="center">
   <img src="./output/github-contribution-grid-snake.svg?cache=1" width="100%" alt="Snake animation"/>
 </p>
