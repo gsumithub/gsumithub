@@ -50,6 +50,7 @@ I focus on:
 
 | Project | Preview |
 |--------|---------|
+| **Solachey (Bootstrap jquery)** | <a href="https://github.com/gsumithub/Solachey-clone-Bootstrap-jquery"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Solachey-clone-Bootstrap-jquery" /></a> |
 | **Movie App** | <a href="https://github.com/gsumithub/Movie-App"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Movie-App" /></a> |
 | **Smart City Mohali Clone** | <a href="https://github.com/gsumithub/Smart-City-Mohali_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Smart-City-Mohali_Clone" /></a> |
 | **Count Down** | <a href="https://github.com/gsumithub/Count-Down"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Count-Down" /></a> |
