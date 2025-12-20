@@ -50,22 +50,23 @@ I focus on:
 
 <div align="center">
 
-| Project | Preview |
-|--------|---------|
-| **Solachey (Bootstrap jquery)** | <a href="https://github.com/gsumithub/Solachey-clone-Bootstrap-jquery"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Solachey-clone-Bootstrap-jquery" /></a> |
-| **Movie App** | <a href="https://github.com/gsumithub/Movie-App"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Movie-App" /></a> |
-| **Smart City Mohali Clone** | <a href="https://github.com/gsumithub/Smart-City-Mohali_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Smart-City-Mohali_Clone" /></a> |
-| **Count Down** | <a href="https://github.com/gsumithub/Count-Down"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Count-Down" /></a> |
-| **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" /></a> |
-| **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> |
-| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" /></a> |
-| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Myntra_clone" /></a> |
-| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/IIP_clone" /></a> |
-| **Figma to HTML** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-" /></a> |
-| **Packshifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Packshifts_clone" /></a> |
-| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="420" src="https://opengraph.githubassets.com/1/gsumithub/Solachey_clone" /></a> |
+| Project | Preview | Live Demo |
+|--------|---------|-----------|
+| **Solachey (Bootstrap + jQuery)** | <a href="https://github.com/gsumithub/Solachey-clone-Bootstrap-jquery"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Solachey-clone-Bootstrap-jquery" /></a> | <a href="https://gsumithub.github.io/Solachey-clone-Bootstrap-jquery/">🚀 Live</a> |
+| **Movie App** | <a href="https://github.com/gsumithub/Movie-App"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Movie-App" /></a> | <a href="https://gsumithub.github.io/Movie-App/">🚀 Live</a> |
+| **Smart City Mohali Clone** | <a href="https://github.com/gsumithub/Smart-City-Mohali_Clone"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Smart-City-Mohali_Clone" /></a> | <a href="https://gsumithub.github.io/Smart-City-Mohali_Clone/">🚀 Live</a> |
+| **Count Down** | <a href="https://github.com/gsumithub/Count-Down"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Count-Down" /></a> | <a href="https://gsumithub.github.io/Count-Down/">🚀 Live</a> |
+| **Digital Clock** | <a href="https://github.com/gsumithub/Digital-Clock"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" /></a> | <a href="https://gsumithub.github.io/Digital-Clock/">🚀 Live</a> |
+| **To Do List** | <a href="https://github.com/gsumithub/ToDoList"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" /></a> | <a href="https://gsumithub.github.io/ToDoList/">🚀 Live</a> |
+| **Spotify Clone** | <a href="https://github.com/gsumithub/Spotify_Clone"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" /></a> | <a href="https://gsumithub.github.io/Spotify_Clone/">🚀 Live</a> |
+| **Myntra Clone** | <a href="https://github.com/gsumithub/Myntra_clone"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Myntra_clone" /></a> | <a href="https://gsumithub.github.io/Myntra_clone/">🚀 Live</a> |
+| **IIP Website Clone** | <a href="https://github.com/gsumithub/IIP_clone"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/IIP_clone" /></a> | <a href="https://gsumithub.github.io/IIP_clone/">🚀 Live</a> |
+| **Figma to HTML** | <a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-" /></a> | <a href="https://gsumithub.github.io/Figma_to_HTML-project-WS-Cube-Tech-web-page-/">🚀 Live</a> |
+| **Packshifts Clone** | <a href="https://github.com/gsumithub/Packshifts_clone"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Packshifts_clone" /></a> | <a href="https://gsumithub.github.io/Packshifts_clone/">🚀 Live</a> |
+| **Solachey Clone** | <a href="https://github.com/gsumithub/Solachey_clone"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Solachey_clone" /></a> | <a href="https://gsumithub.github.io/Solachey_clone/">🚀 Live</a> |
 
 </div>
+
 
 ---
 
