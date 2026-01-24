@@ -34,8 +34,9 @@ I focus on:
 
 ## 📊 GitHub Analytics (Self-Hosted)
 <p align="center">
-  <img src="./stats/modern-metrics.svg" width="95%" />
+  <img src="./stats/custom-dashboard.svg" width="95%" />
 </p>
+
 
 ---
 
