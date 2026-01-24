@@ -1,59 +1,332 @@
 
-  <svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
 
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0f172a"/>
-        <stop offset="100%" stop-color="#1e293b"/>
-      </linearGradient>
-    </defs>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
 
-    <rect width="900" height="320" rx="30" fill="url(#bg)" stroke="#334155"/>
+  <rect width="900" height="260" rx="20" fill="url(#bg)" stroke="#334155" stroke-width="1"/>
 
-    <text x="60" y="70" font-size="28" fill="#94a3b8">gsumithub</text>
+  <!-- Username -->
+  <text x="60" y="45" fill="#94a3b8" font-size="18" font-family="Arial">
+    gsumithub
+  </text>
 
-    <text x="60" y="130" font-size="56" font-weight="bold" fill="#38bdf8">
-      54 DAY STREAK
-    </text>
+  <!-- Left: Streak -->
+  <text x="60" y="130" fill="#38bdf8" font-size="64" font-weight="bold" font-family="Arial">
+    54
+  </text>
 
-    <text x="60" y="180" font-size="16" fill="#64748b">
-      Contributions This Year: 325
-    </text>
+  <text x="60" y="165" fill="#e2e8f0" font-size="20" font-family="Arial">
+    Day Commit Streak
+  </text>
 
-    <text x="400" y="180" font-size="16" fill="#64748b">
-      Repositories: 14
-    </text>
+  <!-- Divider -->
+  <line x1="350" y1="40" x2="350" y2="200" stroke="#334155" />
 
-    <text x="650" y="180" font-size="16" fill="#64748b">
-      Stars: 19
-    </text>
+  <!-- Right Stats -->
+  <text x="390" y="85" fill="#cbd5e1" font-size="16" font-family="Arial">
+    326 Contributions This Year
+  </text>
 
-    <!-- Language Bar -->
-    
-      <rect x="60" y="230" width="506.22" height="16"
-        fill="#e34c26" rx="4"/>
-    
-      <rect x="566.22" y="230" width="234.78" height="16"
-        fill="#663399" rx="4"/>
-    
-      <rect x="801" y="230" width="39" height="16"
-        fill="#f1e05a" rx="4"/>
-    
+  <text x="390" y="110" fill="#cbd5e1" font-size="16" font-family="Arial">
+    14 Public Repositories
+  </text>
 
-    <!-- Language Labels -->
-    
-      <text x="60" y="270" font-size="14" fill="#cbd5e1">
-        HTML 64.9%
-      </text>
-    
-      <text x="566.22" y="270" font-size="14" fill="#cbd5e1">
-        CSS 30.1%
-      </text>
-    
-      <text x="801" y="270" font-size="14" fill="#cbd5e1">
-        JavaScript 5.0%
-      </text>
-    
+  <text x="390" y="135" fill="#cbd5e1" font-size="16" font-family="Arial">
+    19 Total Stars
+  </text>
 
-  </svg>
+  <text x="390" y="160" fill="#cbd5e1" font-size="16" font-family="Arial">
+    4 Followers
+  </text>
+
+  <!-- Language Bar -->
   
+      <rect x="390" y="190" width="271.87469084913437" height="10" rx="5"
+        fill="#e34c26" />
+    
+      <rect x="661.8746908491344" y="190" width="125.92808675248907" height="10" rx="5"
+        fill="#663399" />
+    
+      <rect x="787.8027776016235" y="190" width="22.197222398376564" height="10" rx="5"
+        fill="#f1e05a" />
+    
+
+  <!-- Heat Strip -->
+  
+      <rect
+        x="60"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="76"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="92"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="108"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="124"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="140"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="156"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="172"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="188"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="204"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="220"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="236"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="252"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="268"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="284"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="300"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="316"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="332"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="348"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="364"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="380"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="396"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="412"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="428"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="444"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="460"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="476"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="492"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="508"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#334155"
+      />
+    
+      <rect
+        x="524"
+        y="220"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#38bdf8"
+      />
+    
+
+</svg>
