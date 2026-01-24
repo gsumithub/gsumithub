@@ -21,9 +21,9 @@ jobs:
         run: npm install node-fetch
 
       - name: Generate SVG
-        run: node generate-dashboard.js
         env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DASHBOARD_TOKEN }}
+        run: node generate-dashboard.js
 
       - name: Commit SVG
         run: |
