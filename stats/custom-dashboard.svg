@@ -1,25 +1,45 @@
 
-<svg width="900" height="280" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" rx="20" fill="#0d1117"/>
-  <rect x="0" y="0" width="100%" height="8" fill="#00c6ff"/>
+  <svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
 
-  <text x="40" y="60" fill="#ffffff" font-size="28" font-family="Verdana">
-    Sumit Kumar
-  </text>
+    <defs>
+      <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#1e293b" />
+        <stop offset="100%" stop-color="#0f172a" />
+      </linearGradient>
+    </defs>
 
-  <text x="40" y="100" fill="#58a6ff" font-size="18">
-    Public Repositories: 16
-  </text>
+    <rect width="800" height="300" rx="25" fill="url(#glass)" stroke="#334155" stroke-width="2"/>
 
-  <text x="40" y="135" fill="#58a6ff" font-size="18">
-    Followers: 4
-  </text>
+    <!-- Name -->
+    <text x="50" y="60" fill="#ffffff" font-size="28" font-family="Arial" font-weight="bold">
+      gsumithub
+    </text>
 
-  <text x="40" y="170" fill="#58a6ff" font-size="18">
-    Total Stars: 21
-  </text>
+    <!-- Big Streak -->
+    <text x="50" y="130" fill="#38bdf8" font-size="52" font-family="Arial" font-weight="bold">
+      27 Day Streak
+    </text>
 
-  <text x="40" y="205" fill="#58a6ff" font-size="18">
-    Total Forks: 0
-  </text>
-</svg>
+    <!-- Stats -->
+    <text x="50" y="180" fill="#94a3b8" font-size="18" font-family="Arial">
+      Contributions This Year: 324
+    </text>
+
+    <text x="50" y="210" fill="#94a3b8" font-size="18" font-family="Arial">
+      Public Repositories: 14
+    </text>
+
+    <text x="50" y="240" fill="#94a3b8" font-size="18" font-family="Arial">
+      Total Stars: 19
+    </text>
+
+    <text x="400" y="180" fill="#94a3b8" font-size="18" font-family="Arial">
+      Followers: 4
+    </text>
+
+    <text x="400" y="210" fill="#94a3b8" font-size="18" font-family="Arial">
+      Top Language: HTML
+    </text>
+
+  </svg>
+  
