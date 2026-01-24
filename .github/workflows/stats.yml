@@ -1,8 +1,8 @@
-name: Executive Dev Dashboard
+name: Modern Dev Dashboard
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Daily refresh
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Executive Metrics
+      - name: Generate Modern Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -19,40 +19,42 @@ jobs:
           user: gsumithub
           config_timezone: Asia/Kolkata
 
-          # EXECUTIVE DARK THEME
+          # CLEAN MODERN LOOK
           template: classic
           config_display: large
-          config_padding: 24px
-          config_border: no
+          config_padding: 16px
+          config_border: off
           config_animations: yes
           config_theme: dark
 
-          # CLEAN BASE (no repo noise)
+          # MINIMAL SECTIONS (No repo clutter)
           base: header, activity
 
-          # HERO STREAK
-          plugin_streak: yes
-          plugin_streak_sections: current, longest
-          plugin_streak_days: 365
-
-          # VISUAL LANGUAGE BAR
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 6
-          plugin_languages_other: no
-          plugin_languages_details: percentage
-          plugin_languages_analysis_timeout: 60
-
-          # REMOVE ALL CLUTTER
-          plugin_followup: no
-          plugin_repositories: no
-          plugin_isocalendar: no
-          plugin_topics: no
-          plugin_stars: no
-          plugin_habits: no
-          plugin_achievements: no
-
-          filename: stats/executive-metrics.svg
+          # OUTPUT
+          filename: stats/modern-metrics.svg
           clean: true
           optimize: true
           output_action: commit
+
+          # 🔥 STREAK EMPHASIS
+          plugin_streak: yes
+          plugin_streak_sections: streak, commits
+          plugin_streak_days: 365
+
+          # 📊 LANGUAGES (Graph heavy)
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_other: no
+          plugin_languages_details: percentage
+          plugin_languages_categories: markup, programming
+
+          # 📅 3D Contribution Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full
+
+          # ❌ REMOVE CLUTTER
+          plugin_followup: no
+          plugin_repositories: no
+          plugin_topics: no
+          plugin_stars: no
