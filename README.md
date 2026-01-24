@@ -34,7 +34,7 @@ I focus on:
 
 ## 📊 GitHub Analytics (Self-Hosted)
 <p align="center">
-  <img src="./stats/executive-metrics.svg?cache=2" width="90%" alt="GitHub Metrics"/>
+  <img src="./stats/modern-metrics.svg" width="95%" />
 </p>
 
 ---
