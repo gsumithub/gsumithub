@@ -22,8 +22,9 @@ jobs:
 
       - name: Generate SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: node generate-dashboard.js
+
 
       - name: Commit SVG
         run: |
