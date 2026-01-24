@@ -21,7 +21,7 @@ async function fetchData() {
             }
           }
         }
-        repositories(first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
+        repositories(first: 100) {
           nodes {
             languages(first: 1, orderBy: {field: SIZE, direction: DESC}) {
               nodes {
@@ -44,6 +44,12 @@ async function fetchData() {
   });
 
   const json = await response.json();
+
+  if (json.errors) {
+    console.error("GraphQL Error:", JSON.stringify(json.errors, null, 2));
+    process.exit(1);
+  }
+
   return json.data.user;
 }
 
@@ -81,31 +87,31 @@ function generateSVG(data) {
   <svg width="900" height="350" xmlns="http://www.w3.org/2000/svg">
     <style>
       .card {
-        fill: rgba(20,20,20,0.85);
+        fill: rgba(20,20,20,0.9);
         stroke: rgba(255,255,255,0.1);
         stroke-width: 1;
         rx: 25;
       }
       .title { font: bold 28px sans-serif; fill: white; }
-      .big { font: bold 40px sans-serif; fill: #00ffcc; }
-      .label { font: 16px sans-serif; fill: #999; }
+      .big { font: bold 42px sans-serif; fill: #00e0ff; }
+      .label { font: 16px sans-serif; fill: #888; }
     </style>
 
     <rect x="20" y="20" width="860" height="310" class="card" />
 
-    <text x="60" y="80" class="title">GitHub Analytics</text>
+    <text x="60" y="80" class="title">Sumit Kumar — Analytics</text>
 
-    <text x="60" y="140" class="big">${streak}</text>
-    <text x="60" y="170" class="label">Current Commit Streak</text>
+    <text x="60" y="150" class="big">${streak}</text>
+    <text x="60" y="180" class="label">Current Commit Streak</text>
 
-    <text x="300" y="140" class="big">${totalContributions}</text>
-    <text x="300" y="170" class="label">Contributions This Year</text>
+    <text x="320" y="150" class="big">${totalContributions}</text>
+    <text x="320" y="180" class="label">Contributions This Year</text>
 
-    <text x="580" y="140" class="big">${repoCount}</text>
-    <text x="580" y="170" class="label">Public Repositories</text>
+    <text x="640" y="150" class="big">${repoCount}</text>
+    <text x="640" y="180" class="label">Public Repositories</text>
 
-    <text x="60" y="240" class="big">${topLanguage}</text>
-    <text x="60" y="270" class="label">Top Language</text>
+    <text x="60" y="260" class="big">${topLanguage}</text>
+    <text x="60" y="290" class="label">Top Language</text>
   </svg>
   `;
 }
