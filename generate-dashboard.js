@@ -1,4 +1,3 @@
-const fetch = require("node-fetch");
 const fs = require("fs");
 
 const username = "gsumithub";
@@ -123,7 +122,6 @@ function generateSVG(data) {
     data.contributionsCollection.contributionCalendar.weeks;
 
   const streak = calculateStreak(weeks);
-
   const languages = calculateLanguages(data.languageRepos.nodes);
 
   const languageBars = languages.map((lang, i) => {
