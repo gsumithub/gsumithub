@@ -12,14 +12,14 @@
   <text x="40" y="50" fill="#94a3b8" font-size="14">gsumithub</text>
 
   <text x="40" y="100" fill="#38bdf8" font-size="48" font-weight="bold">
-    54
+    57
   </text>
   <text x="40" y="130" fill="#cbd5e1" font-size="16">
     Day Commit Streak
   </text>
 
   <text x="320" y="70" fill="#cbd5e1" font-size="14">
-    327 Contributions This Year
+    331 Contributions This Year
   </text>
   <text x="320" y="95" fill="#cbd5e1" font-size="14">
     14 Public Repositories
@@ -32,7 +32,7 @@
   </text>
 
   <g transform="translate(40,170)">
-    <rect width="8" height="1" x="0" y="29" rx="2" fill="#3b82f6"/><rect width="8" height="0" x="12" y="30" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="24" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="4" x="36" y="26" rx="2" fill="#3b82f6"/><rect width="8" height="20" x="48" y="10" rx="2" fill="#3b82f6"/><rect width="8" height="13" x="60" y="17" rx="2" fill="#3b82f6"/><rect width="8" height="13" x="72" y="17" rx="2" fill="#3b82f6"/><rect width="8" height="10" x="84" y="20" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="96" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="96" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="96" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="8" x="132" y="22" rx="2" fill="#3b82f6"/>
+    <rect width="8" height="0" x="0" y="30" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="12" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="4" x="24" y="26" rx="2" fill="#3b82f6"/><rect width="8" height="20" x="36" y="10" rx="2" fill="#3b82f6"/><rect width="8" height="13" x="48" y="17" rx="2" fill="#3b82f6"/><rect width="8" height="13" x="60" y="17" rx="2" fill="#3b82f6"/><rect width="8" height="10" x="72" y="20" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="84" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="84" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="2" x="84" y="28" rx="2" fill="#3b82f6"/><rect width="8" height="8" x="120" y="22" rx="2" fill="#3b82f6"/><rect width="8" height="1" x="132" y="29" rx="2" fill="#3b82f6"/>
   </g>
 
   <g transform="translate(320,170)">
