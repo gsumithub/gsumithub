@@ -1,5 +1,5 @@
-import fetch from "node-fetch";
-import fs from "fs";
+const fetch = require("node-fetch");
+const fs = require("fs");
 
 const username = "gsumithub";
 const token = process.env.METRICS_TOKEN;
@@ -78,17 +78,10 @@ async function getData() {
 
 function calculateStreak(weeks) {
   const days = weeks.flatMap(w => w.contributionDays);
-  const today = new Date();
-
   let streak = 0;
 
   for (let i = days.length - 1; i >= 0; i--) {
-    const day = days[i];
-    const dayDate = new Date(day.date);
-
-    if (dayDate > today) continue;
-
-    if (day.contributionCount > 0) {
+    if (days[i].contributionCount > 0) {
       streak++;
     } else {
       break;
@@ -123,40 +116,32 @@ function calculateLanguages(repos) {
 }
 
 function generateSVG(data) {
-  const {
-    followers,
-    publicRepos,
-    contributionsCollection,
-    languageRepos
-  } = data;
-
   const totalContributions =
-    contributionsCollection.contributionCalendar.totalContributions;
+    data.contributionsCollection.contributionCalendar.totalContributions;
 
   const weeks =
-    contributionsCollection.contributionCalendar.weeks;
+    data.contributionsCollection.contributionCalendar.weeks;
 
   const streak = calculateStreak(weeks);
 
-  const languages = calculateLanguages(languageRepos.nodes);
-
-  const width = 800;
-  const height = 260;
+  const languages = calculateLanguages(data.languageRepos.nodes);
 
   const languageBars = languages.map((lang, i) => {
     const colors = ["#ff5722", "#7c4dff", "#ffd54f"];
-    const y = 200;
+    const xOffset = languages.slice(0, i)
+      .reduce((acc, l) => acc + (l.percent / 100) * 500, 0);
+
     const barWidth = (lang.percent / 100) * 500;
 
     return `
-      <rect x="${150 + languages.slice(0, i).reduce((acc, l) => acc + (l.percent / 100) * 500, 0)}"
-            y="${y}"
+      <rect x="${150 + xOffset}"
+            y="200"
             width="${barWidth}"
             height="12"
             rx="6"
             fill="${colors[i] || "#4fc3f7"}" />
-      <text x="${150 + languages.slice(0, i).reduce((acc, l) => acc + (l.percent / 100) * 500, 0)}"
-            y="${y + 30}"
+      <text x="${150 + xOffset}"
+            y="230"
             fill="#cfd8dc"
             font-size="12">
         ${lang.name} ${lang.percent}%
@@ -165,7 +150,7 @@ function generateSVG(data) {
   }).join("");
 
   return `
-<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="260" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
@@ -174,11 +159,11 @@ function generateSVG(data) {
     </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="${width}" height="${height}" rx="25"
+  <rect width="800" height="260" rx="25"
         fill="url(#glass)" stroke="#334155" stroke-width="1"/>
 
   <text x="40" y="40" fill="#94a3b8" font-size="16">
-    ${username}
+    gsumithub
   </text>
 
   <text x="40" y="100" fill="#38bdf8" font-size="64" font-weight="bold">
@@ -194,11 +179,11 @@ function generateSVG(data) {
   </text>
 
   <text x="400" y="95" fill="#e2e8f0" font-size="16">
-    ${publicRepos.totalCount} Public Repositories
+    ${data.publicRepos.totalCount} Public Repositories
   </text>
 
   <text x="400" y="120" fill="#e2e8f0" font-size="16">
-    ${followers.totalCount} Followers
+    ${data.followers.totalCount} Followers
   </text>
 
   ${languageBars}
@@ -210,6 +195,5 @@ function generateSVG(data) {
 (async () => {
   const data = await getData();
   const svg = generateSVG(data);
-
   fs.writeFileSync("stats/custom-dashboard.svg", svg);
 })();
