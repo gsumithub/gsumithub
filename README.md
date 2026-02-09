@@ -53,7 +53,12 @@ I focus on:
 
 | Project | Preview | Live Demo |
 |--------|---------|-----------|
-| **E-COmmerce App (React + Tailwind CSS)** | <a href="https://github.com/gsumithub/E-Commerce-App"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/E-Commerce-App" /></a> | <a href="https://gsumithub.github.io/E-Commerce-App/">🚀 Live</a> | 
+| **E-Commerce App (React + Tailwind CSS)** | 
+<a href="https://github.com/gsumithub/E-Commerce-App">
+<img width="360" src="https://opengraph.githubassets.com/2025/gsumithub/E-Commerce-App" />
+</a> | 
+<a href="https://gsumithub.github.io/E-Commerce-App/">🚀 Live</a> |
+| 
 | **Law Prep Tutorial Clone (Bootstrap + jQuery)** | <a href="https://github.com/gsumithub/Law-prep-clone-bootstrap-jQuery"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Law-prep-clone-bootstrap-jQuery" /></a> | <a href="https://gsumithub.github.io/Law-prep-clone-bootstrap-jQuery/">🚀 Live</a> |
 | **Solachey (Bootstrap + jQuery)** | <a href="https://github.com/gsumithub/Solachey-clone-Bootstrap-jquery"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Solachey-clone-Bootstrap-jquery" /></a> | <a href="https://gsumithub.github.io/Solachey-clone-Bootstrap-jquery/">🚀 Live</a> |
 | **Movie App** | <a href="https://github.com/gsumithub/Movie-App"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Movie-App" /></a> | <a href="https://gsumithub.github.io/Movie-App/">🚀 Live</a> |
