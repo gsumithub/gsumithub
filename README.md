@@ -53,6 +53,7 @@ I focus on:
 
 | Project | Preview | Live Demo |
 |--------|---------|-----------|
+| **Full-Stack Furniture E-Commerce Platform** | <a href="https://github.com/gsumithub/furniture-website"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/furniture-website" /></a> | <a href="https://furniture-website-re1j.vercel.app/">🚀 Live</a> |
 | **Enquiry Manangement System** | <a href="https://github.com/gsumithub/Enquiry-Management-System"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Enquiry-Management-System" /></a> | <a href="https://gsumithub.github.io/Enquiry-Management-System/">🚀 Live</a> |
 | **E-Commerce App (React + Tailwind CSS)** | <a href="https://github.com/gsumithub/E-Commerce-App"><img width="360" src="https://opengraph.githubassets.com/2025/gsumithub/E-Commerce-App" /></a> | <a href="https://gsumithub.github.io/E-Commerce-App/">🚀 Live</a> |
 | **Law Prep Tutorial Clone (Bootstrap + jQuery)** | <a href="https://github.com/gsumithub/Law-prep-clone-bootstrap-jQuery"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/Law-prep-clone-bootstrap-jQuery" /></a> | <a href="https://gsumithub.github.io/Law-prep-clone-bootstrap-jQuery/">🚀 Live</a> |
