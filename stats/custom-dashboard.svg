@@ -16,7 +16,7 @@
   </text>
 
   <text x="40" y="100" fill="#38bdf8" font-size="64" font-weight="bold">
-    213
+    214
   </text>
 
   <text x="40" y="130" fill="#cbd5e1" font-size="18">
@@ -24,7 +24,7 @@
   </text>
 
   <text x="400" y="70" fill="#e2e8f0" font-size="16">
-    506 Contributions This Year
+    526 Contributions This Year
   </text>
 
   <text x="400" y="95" fill="#e2e8f0" font-size="16">
@@ -38,7 +38,7 @@
   
       <rect x="150"
             y="200"
-            width="276"
+            width="278.5"
             height="12"
             rx="6"
             fill="#ff5722" />
@@ -46,33 +46,33 @@
             y="230"
             fill="#cfd8dc"
             font-size="12">
-        JavaScript 55.2%
+        JavaScript 55.7%
       </text>
     
-      <rect x="426"
+      <rect x="428.5"
             y="200"
-            width="153"
+            width="150"
             height="12"
             rx="6"
             fill="#7c4dff" />
-      <text x="426"
+      <text x="428.5"
             y="230"
             fill="#cfd8dc"
             font-size="12">
-        HTML 30.6%
+        HTML 30.0%
       </text>
     
-      <rect x="579"
+      <rect x="578.5"
             y="200"
-            width="71.50000000000001"
+            width="71"
             height="12"
             rx="6"
             fill="#ffd54f" />
-      <text x="579"
+      <text x="578.5"
             y="230"
             fill="#cfd8dc"
             font-size="12">
-        CSS 14.3%
+        CSS 14.2%
       </text>
     
 
