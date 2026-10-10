@@ -12,21 +12,25 @@
 
 ## 🧑‍💻 About Me  
 
-I'm a passionate **MERN Stack Developer** who loves building clean UI, optimized backend logic, and polished real-world web applications.  
-I focus on:
+I'm a **Full-Stack Developer** & **B.Tech CSE graduate** passionate about crafting high-performance user interfaces, robust backend architectures, and production-ready web applications.  
 
-- 🎨 Smooth, responsive UI  
-- ⚡ Fast and efficient backend logic (Node.js / Express)  
-- 🗃 Scalable MongoDB database models  
-- 🚀 Production-ready full-stack applications  
-- 🧼 Clean code, readable architecture  
+Recently contributed to building scalable web platforms and monetization engines at **Sorsiri**, specializing in seamless third-party integrations and modern frontend performance.
+
+I focus on:
+- 🎨 **Modern, High-Performance UI:** Fluid animations, sub-second load times, and pixel-perfect responsiveness (React, Next.js, Vite)  
+- ⚡ **Scalable Backend Systems:** RESTful microservices, secure authentication, and webhook architectures (Node.js, Express)  
+- 🗄️ **Multi-Database Architectures:** Scalable schema design across both Relational and NoSQL databases (PostgreSQL, MongoDB, MySQL, Redis)  
+- 💳 **Monetization & API Integrations:** Payment gateway workflows (Razorpay SDK), CRM pipelines, and telemetry systems  
+- 🐳 **DevOps & Clean Architecture:** Containerization with Docker, modular MVC patterns, and clean, type-safe code  
 
 ---
 
 ## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,jquery,bootstrap,git,github,linux,tailwind,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,postgres,mongodb,mysql,redis,docker,aws,git,github,postman,linux,figma&perline=7" />
 </p>
+
 
 
 
