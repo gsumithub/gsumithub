@@ -48,6 +48,7 @@ I focus on:
 ---
 
 
+
 ## 🧩 My Web Dev Projects
 
 <div align="center">
@@ -63,52 +64,114 @@ I focus on:
   <tbody>
     <tr>
       <td align="center"><strong>Gourmet AI – Recipe Assistant</strong></td>
-      <td align="center">
-        <a href="https://github.com/gsumithub/recipe-ai-assistant">
-          <img src="https://opengraph.githubassets.com/1/gsumithub/recipe-ai-assistant" width="320" alt="Gourmet AI Preview"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://recipe-ai-assistant-woad.vercel.app/">🚀 Live Demo</a>
-      </td>
+      <td align="center"><a href="https://github.com/gsumithub/recipe-ai-assistant"><img src="https://opengraph.githubassets.com/1/gsumithub/recipe-ai-assistant" width="280" alt="Gourmet AI Preview"/></a></td>
+      <td align="center"><a href="https://recipe-ai-assistant-woad.vercel.app/">🚀 Live</a></td>
     </tr>
     <tr>
       <td align="center"><strong>QuizMaster</strong></td>
-      <td align="center">
-        <a href="https://github.com/gsumithub/quizmaster">
-          <img src="https://opengraph.githubassets.com/1/gsumithub/quizmaster" width="320" alt="QuizMaster Preview"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://quizmaster-client.vercel.app/">🚀 Live Demo</a>
-      </td>
+      <td align="center"><a href="https://github.com/gsumithub/quizmaster"><img src="https://opengraph.githubassets.com/1/gsumithub/quizmaster" width="280" alt="QuizMaster Preview"/></a></td>
+      <td align="center"><a href="https://quizmaster-client.vercel.app/">🚀 Live</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Full-Stack Furniture E-Commerce Platform</strong></td>
-      <td align="center">
-        <a href="https://github.com/gsumithub/furniture-website">
-          <img src="https://opengraph.githubassets.com/1/gsumithub/furniture-website" width="320" alt="Furniture E-Commerce Preview"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://furniture-website-re1j.vercel.app/">🚀 Live Demo</a>
-      </td>
+      <td align="center"><a href="https://github.com/gsumithub/furniture-website"><img src="https://opengraph.githubassets.com/1/gsumithub/furniture-website" width="280" alt="Furniture E-Commerce Preview"/></a></td>
+      <td align="center"><a href="https://furniture-website-re1j.vercel.app/">🚀 Live</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Enquiry Management System</strong></td>
-      <td align="center">
-        <a href="https://github.com/gsumithub/Enquiry-Management-System">
-          <img src="https://opengraph.githubassets.com/1/gsumithub/Enquiry-Management-System" width="320" alt="Enquiry Management Preview"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://gsumithub.github.io/Enquiry-Management-System/">🚀 Live Demo</a>
-      </td>
+      <td align="center"><a href="https://github.com/gsumithub/Enquiry-Management-System"><img src="https://opengraph.githubassets.com/1/gsumithub/Enquiry-Management-System" width="280" alt="Enquiry Management Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Enquiry-Management-System/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>E-Commerce App (React + Tailwind CSS)</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/E-Commerce-App"><img src="https://opengraph.githubassets.com/2025/gsumithub/E-Commerce-App" width="280" alt="E-Commerce App Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/E-Commerce-App/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Law Prep Tutorial Clone (Bootstrap + jQuery)</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Law-prep-clone-bootstrap-jQuery"><img src="https://opengraph.githubassets.com/1/gsumithub/Law-prep-clone-bootstrap-jQuery" width="280" alt="Law Prep Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Law-prep-clone-bootstrap-jQuery/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Solachey (Bootstrap + jQuery)</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Solachey-clone-Bootstrap-jquery"><img src="https://opengraph.githubassets.com/1/gsumithub/Solachey-clone-Bootstrap-jquery" width="280" alt="Solachey Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Solachey-clone-Bootstrap-jquery/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Movie App</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Movie-App"><img src="https://opengraph.githubassets.com/1/gsumithub/Movie-App" width="280" alt="Movie App Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Movie-App/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Diavo Jewelries Funnel</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/diavo-jweleries-funnel"><img src="https://opengraph.githubassets.com/1/gsumithub/diavo-jweleries-funnel" width="280" alt="Diavo Jewelries Preview"/></a></td>
+      <td align="center"><a href="https://diavo-jweleries-funnel.vercel.app/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Dialysis On Going</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/dialysis-on-going"><img src="https://opengraph.githubassets.com/1/gsumithub/dialysis-on-going" width="280" alt="Dialysis On Going Preview"/></a></td>
+      <td align="center"><a href="https://dialysis-on-going.vercel.app/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Smart City Mohali Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Smart-City-Mohali_Clone"><img src="https://opengraph.githubassets.com/1/gsumithub/Smart-City-Mohali_Clone" width="280" alt="Smart City Mohali Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Smart-City-Mohali_Clone/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Blinkit Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/blinkit-clone"><img src="https://opengraph.githubassets.com/1/gsumithub/blinkit-clone" width="280" alt="Blinkit Clone Preview"/></a></td>
+      <td align="center"><a href="https://blinkit-clone-smoky-theta.vercel.app/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Count Down</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Count-Down"><img src="https://opengraph.githubassets.com/1/gsumithub/Count-Down" width="280" alt="Count Down Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Count-Down/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Digital Clock</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Digital-Clock"><img src="https://opengraph.githubassets.com/1/gsumithub/Digital-Clock" width="280" alt="Digital Clock Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Digital-Clock/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>To Do List</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/ToDoList"><img src="https://opengraph.githubassets.com/1/gsumithub/ToDoList" width="280" alt="To Do List Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/ToDoList/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Spotify Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Spotify_Clone"><img src="https://opengraph.githubassets.com/1/gsumithub/Spotify_Clone" width="280" alt="Spotify Clone Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Spotify_Clone/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Myntra Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Myntra_clone"><img src="https://opengraph.githubassets.com/1/gsumithub/Myntra_clone" width="280" alt="Myntra Clone Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Myntra_clone/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>IIP Website Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/IIP_clone"><img src="https://opengraph.githubassets.com/1/gsumithub/IIP_clone" width="280" alt="IIP Website Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/IIP_clone/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Figma to HTML</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-"><img src="https://opengraph.githubassets.com/1/gsumithub/Figma_to_HTML-project-WS-Cube-Tech-web-page-" width="280" alt="Figma to HTML Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Figma_to_HTML-project-WS-Cube-Tech-web-page-/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Packshifts Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Packshifts_clone"><img src="https://opengraph.githubassets.com/1/gsumithub/Packshifts_clone" width="280" alt="Packshifts Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Packshifts_clone/">🚀 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Solachey Clone</strong></td>
+      <td align="center"><a href="https://github.com/gsumithub/Solachey_clone"><img src="https://opengraph.githubassets.com/1/gsumithub/Solachey_clone" width="280" alt="Solachey Clone Preview"/></a></td>
+      <td align="center"><a href="https://gsumithub.github.io/Solachey_clone/">🚀 Live</a></td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
 
 
 ## 🌐 Socials & Badges  
@@ -132,6 +195,3 @@ I focus on:
   <sub>✨ Thanks for visiting — I’m always building something cool. Stay tuned! ✨</sub>
 </p>
 
-
-
-fix
