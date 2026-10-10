@@ -54,6 +54,7 @@ I focus on:
 | Project | Preview | Live Demo |
 |--------|---------|-----------|
 
+
 | **Gourmet AI – Recipe Assistant** | <a href="https://github.com/gsumithub/recipe-ai-assistant"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/recipe-ai-assistant" /></a> | <a href="https://recipe-ai-assistant-woad.vercel.app/">🚀 Live</a> |
 | **QuizMaster** | <a href="https://github.com/gsumithub/quizmaster"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/quizmaster" /></a> | <a href="https://quizmaster-client.vercel.app/">🚀 Live</a> |
 | **Full-Stack Furniture E-Commerce Platform** | <a href="https://github.com/gsumithub/furniture-website"><img width="360" src="https://opengraph.githubassets.com/1/gsumithub/furniture-website" /></a> | <a href="https://furniture-website-re1j.vercel.app/">🚀 Live</a> |
