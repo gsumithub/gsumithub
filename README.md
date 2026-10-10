@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <img src="banner.png" width="100%" alt="Sumit Kumar Banner"/>
 </p> -->
-<h1 align="center">✨ Sumit Kumar — MERN Stack Developer ✨</h1>
+<h1 align="center">✨ Sumit Kumar — Web Developer ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=900&color=00A3FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+%2F+Backend+Engineer;Clean+Code+Advocate;Building+Real+World+Projects;Always+Learning+Always+Building" alt="Typing SVG"/>
