@@ -24,11 +24,11 @@
   </text>
 
   <text x="400" y="70" fill="#e2e8f0" font-size="16">
-    744 Contributions This Year
+    705 Contributions This Year
   </text>
 
   <text x="400" y="95" fill="#e2e8f0" font-size="16">
-    25 Public Repositories
+    26 Public Repositories
   </text>
 
   <text x="400" y="120" fill="#e2e8f0" font-size="16">
@@ -38,7 +38,7 @@
   
       <rect x="150"
             y="200"
-            width="284"
+            width="296.00000000000006"
             height="12"
             rx="6"
             fill="#ff5722" />
@@ -46,33 +46,33 @@
             y="230"
             fill="#cfd8dc"
             font-size="12">
-        JavaScript 56.8%
+        JavaScript 59.2%
       </text>
     
-      <rect x="434"
+      <rect x="446.00000000000006"
             y="200"
-            width="133.5"
+            width="124.5"
             height="12"
             rx="6"
             fill="#7c4dff" />
-      <text x="434"
+      <text x="446.00000000000006"
             y="230"
             fill="#cfd8dc"
             font-size="12">
-        HTML 26.7%
+        HTML 24.9%
       </text>
     
-      <rect x="567.5"
+      <rect x="570.5"
             y="200"
-            width="82.5"
+            width="79.5"
             height="12"
             rx="6"
             fill="#ffd54f" />
-      <text x="567.5"
+      <text x="570.5"
             y="230"
             fill="#cfd8dc"
             font-size="12">
-        CSS 16.5%
+        CSS 15.9%
       </text>
     
 
