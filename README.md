@@ -44,10 +44,10 @@ I focus on:
 
 ---
 
-## 🐍 Contribution Snake  (Self-Hosted)
+<!--## 🐍 Contribution Snake  (Self-Hosted)
 <p align="center">
   <img src="./output/github-contribution-grid-snake.svg?cache=1" width="100%" alt="Snake animation"/>
-</p>
+</p>-->
 
 ---
 
